@@ -13,36 +13,22 @@ The environment for this project is based on the popular **OpenAI Gym** `LunarLa
 - Trained model for testing
 
 ## Tech Stack
-- **Python 3.x**
+- **Python 3.10**
 - **TensorFlow / PyTorch** (choose the framework you used)
 - **OpenAI Gym**
 - **NumPy**
-- **Matplotlib** (for visualization)
 
-## Installation Instructions
+##  Running the Project on Google Colab
 To run this project, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/lunar-lander-rl.git
-   cd lunar-lander-rl
-   ```
+###Steps to Run the Jupyter Notebook on Google Colab:
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+1. Open Google Colab at colab.research.google.com. 
 
-3. Run the training script:
-   ```bash
-   python train.py
-   ```
+2. Upload the .ipynb file by selecting File > Upload Notebook.
 
-4. To test the trained model:
-   ```bash
-   python test.py
-   ```
-
+3. Once the notebook is uploaded, Run the cells in the notebook to simulate the lunar lander environment and train the agent using reinforcement learning.
+ 
 ## Algorithm Details
 This project uses **Deep Q-Learning (DQN)**, a reinforcement learning algorithm that uses a neural network to approximate Q-values. The agent takes actions based on the Q-values, and the goal is to minimize the total negative reward by learning from experience (experience replay).
 
