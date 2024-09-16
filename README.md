@@ -9,7 +9,6 @@ The environment for this project is based on the popular **OpenAI Gym** `LunarLa
 ## Features
 - **Reinforcement Learning** with Deep Q-Networks (DQN)
 - Environment: OpenAI Gym's `LunarLander-v2`
-- Visualizations of the learning process
 - Trained model for testing
 
 ## Tech Stack
