@@ -23,7 +23,7 @@ To run this project, follow these steps:
 
 ### Steps to Run the Jupyter Notebook on Google Colab:
 
-1. Open Google Colab at [Link Text](colab.research.google.com). 
+1. Open Google Colab at [colab.research.google.com](colab.research.google.com). 
 
 2. Upload the .ipynb file by **selecting File > Upload Notebook**.
 
