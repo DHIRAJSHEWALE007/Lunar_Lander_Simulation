@@ -37,24 +37,11 @@ Key components of the DQN:
 - **Target Network**: Helps in stabilizing the learning process.
 
 ## Results
-After training for approximately *n* episodes, the agent successfully lands the lunar module with high efficiency. Below is a plot of the cumulative reward over episodes, showing how the agent improves over time.
+After training for approximately *650* episodes, the agent successfully lands the lunar module with high efficiency.
 
-![Learning Curve](path/to/learning_curve.png)
-
-## Usage
-To run a simulation of the trained model:
-```bash
-python simulate.py
-```
-
-You can adjust hyperparameters like learning rate, discount factor, etc., in the `config.json` file.
-
-## Visualization
-- **Training Performance**: Visualized using a reward graph over time.
-- **Landing Simulation**: Watch the agent land the spacecraft in a GIF or video.
 
 ## Future Work
-- Implement other reinforcement learning algorithms like **PPO** or **DDPG**.
+- Implement other reinforcement learning projects for better understanding of future trends.
 - Add more complex environments for training, including obstacles or fuel constraints.
 
 ## Contributing
