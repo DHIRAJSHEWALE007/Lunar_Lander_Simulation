@@ -21,11 +21,11 @@ The environment for this project is based on the popular **OpenAI Gym** `LunarLa
 ##  Running the Project on Google Colab
 To run this project, follow these steps:
 
-###Steps to Run the Jupyter Notebook on Google Colab:
+### Steps to Run the Jupyter Notebook on Google Colab:
 
 1. Open Google Colab at colab.research.google.com. 
 
-2. Upload the .ipynb file by selecting File > Upload Notebook.
+2. Upload the .ipynb file by **selecting File > Upload Notebook**.
 
 3. Once the notebook is uploaded, Run the cells in the notebook to simulate the lunar lander environment and train the agent using reinforcement learning.
  
