@@ -1,5 +1,5 @@
 
-# Lunar Lander Simulation using Reinforcement Learning
+# Lunar Lander Simulation using Reinforcement Learning 
 
 ## Project Overview
 This project simulates a lunar lander using **reinforcement learning** techniques. The aim is to develop an agent that learns to land a spacecraft safely on the moon using minimal fuel and avoiding crashes.
@@ -37,7 +37,11 @@ Key components of the DQN:
 
 ## Results
 After training for approximately *650* episodes, the agent successfully lands the lunar module with high efficiency.
+### Before Training
+![lunar_lander1](https://github.com/user-attachments/assets/bfbf87ed-4582-4b14-be0a-19ff515abc8f)
 
+### After Training
+![download7-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8d692227-e4fc-43f0-a33d-e1ed3b229855)
 
 ## Future Work
 - Implement other reinforcement learning projects for better understanding of future trends.
