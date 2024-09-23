@@ -13,7 +13,7 @@ The environment for this project is based on the popular **OpenAI Gym** `LunarLa
 
 ## Tech Stack
 - **Python 3.10**
-- **TensorFlow / PyTorch** (choose the framework you used)
+- **TensorFlow**
 - **OpenAI Gym**
 - **NumPy**
 
